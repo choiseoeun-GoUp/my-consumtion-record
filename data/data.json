@@ -1,0 +1,25 @@
+{
+  "historys": [
+    {
+      "id": 1,
+      "title": "월급이 들어온다",
+      "amount": "100,000",
+      "createdAt": "2022-08-17",
+      "type": "income"
+    },
+    {
+      "id": 2,
+      "title": "월급이 나간다",
+      "amount": "10,000",
+      "createdAt": "2022-08-17",
+      "type": "expenditure"
+    },
+    {
+      "title": "로또 1등 당첨",
+      "amount": "20,000,000,000",
+      "createdAt": "2022-08-15T00:00:00.000Z",
+      "type": "income",
+      "id": 3
+    }
+  ]
+}
